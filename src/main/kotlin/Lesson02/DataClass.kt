@@ -17,4 +17,5 @@ var user2 = User(name = "Kenan", surname = "Haciyev", age = 32)
 
 data class User(var name: String, var surname: String, var age: Int)
 /* data classlarin diger claslardan en boyuk ferqi bu klaslarin daxilindeki deyisenlerin aldigi qiymetler
-* bir-birine beraberdirse bu zaman bu klasdan yaranacaq obyektlerde bir birine beraber olacaq yuxardaki misala bax */
+* bir-birine beraberdirse bu zaman bu klasdan yaranacaq obyektlerde bir birine beraber olacaq yuxardaki misala bax
+* DAta claslar entitiy kimi istifade ederik yeni DB deki melumatlara uygun yaziriq*/
