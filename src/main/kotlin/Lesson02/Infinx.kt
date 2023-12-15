@@ -1,7 +1,6 @@
 package org.example.Lesson02
 
-import org.example.muqayiseEt
-import javax.print.attribute.standard.MediaSize.Other
+
 
 fun main(){
     val x: Int=6

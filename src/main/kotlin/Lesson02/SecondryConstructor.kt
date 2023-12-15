@@ -1,7 +1,6 @@
 package org.example.Lesson02
 
-import org.example.Dog
-import java.awt.Color
+
 
 fun main (){
     var dog=TheDog("whit", "meat")
