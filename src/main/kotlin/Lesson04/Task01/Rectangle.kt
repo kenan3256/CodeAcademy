@@ -1,4 +1,4 @@
-package Lesson04.Task
+package Lesson04.Task01
 
 class Rectangle (var eni:Double, var uzunu: Double) : Shape(), TwoDimensional {
     override fun getName(): ShapeType {

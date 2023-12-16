@@ -1,4 +1,4 @@
-package Lesson04.Task
+package Lesson04.Task01
 
 class Circle (var yaricapi : Double) : Shape(), TwoDimensional {
     val pi=3.14

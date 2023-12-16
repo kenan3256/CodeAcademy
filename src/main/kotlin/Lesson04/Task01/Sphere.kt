@@ -1,6 +1,6 @@
-package Lesson04.Task
+package Lesson04.Task01
 
-class Sphere (var yaricapi : Double) : Shape(),TwoDimensional, ThreeDimensional {
+class Sphere (var yaricapi : Double) : Shape(), TwoDimensional, ThreeDimensional {
     val pi=3.14
     override fun getName(): ShapeType {
         return ShapeType.SHPERE

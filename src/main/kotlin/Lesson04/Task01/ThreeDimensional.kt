@@ -1,4 +1,4 @@
-package Lesson04.Task
+package Lesson04.Task01
 
 interface ThreeDimensional {
 
